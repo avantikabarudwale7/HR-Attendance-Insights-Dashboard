@@ -28,9 +28,6 @@ The goal of this project is to track and analyze **employee presence**, **work-f
 - ✅ Designed with stakeholder collaboration (HR Manager, Analytics Manager).
 - ✅ Scalable: Logic built to handle new months/data uploads seamlessly.
 
-## 📂 Files
-- `Hr dashboard (Presence insight).pbix` — Power BI file with all transformations and visuals
-
 ## 🧠 What I Learned
 - How to handle real-world dirty data using Power Query.
 - Importance of stakeholder requirement gathering before building a dashboard.
