@@ -28,10 +28,6 @@ The goal of this project is to track and analyze **employee presence**, **work-f
 - ✅ Designed with stakeholder collaboration (HR Manager, Analytics Manager).
 - ✅ Scalable: Logic built to handle new months/data uploads seamlessly.
 
-## 📈 Dashboard Preview
-
-> (Insert dashboard image here or link a screenshot from the PBIX if you're uploading it to GitHub)
-
 ## 📂 Files
 - `Hr dashboard (Presence insight).pbix` — Power BI file with all transformations and visuals
 
@@ -43,6 +39,7 @@ The goal of this project is to track and analyze **employee presence**, **work-f
 - Role-based access control for secure dashboards.
 - Real-world data storytelling using visuals.
 
+- ## 📈 Dashboard Preview
 - <img width="1101" height="621" alt="image" src="https://github.com/user-attachments/assets/1ee88fa9-5603-4f28-aab1-a077e3f41f37" />
 
 
